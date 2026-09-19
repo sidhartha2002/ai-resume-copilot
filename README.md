@@ -9,7 +9,7 @@
 [![uv](https://img.shields.io/badge/Package_Manager-uv-6A4EFC)](https://docs.astral.sh/uv/)
 
 <!-- Replace this placeholder with your deployed Streamlit URL -->
-[🚀 **Live Demo**](YOUR_STREAMLIT_APP_URL)
+[🚀 **Live Demo**](https://ai-resume-copilot.streamlit.app/)
 
 ---
 
